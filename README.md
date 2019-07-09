@@ -1,0 +1,2 @@
+# BugTrackerJHipster
+for jhipster test
